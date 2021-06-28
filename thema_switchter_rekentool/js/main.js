@@ -1,5 +1,3 @@
-console.log('Javascript loaded');
-
 const switchButtton = document.querySelectorAll('.switch_theme');
 const theNav = document.querySelector('.topnav')
 if(theNav){
